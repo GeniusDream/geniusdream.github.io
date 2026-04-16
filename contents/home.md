@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![GeniusDream](https://img.shields.io/badge/GeniusDream-github-blue?logo=github)](https://github.com/GeniusDream)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Wenzhi Li is currently a graduate student in Software Technology at Zhejiang University, China. She received her B.Eng. degree from Zhejiang University of Technology in 2025. Her research interests include large language models and quadrotor unmanned aerial vehicles.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: wenzhi_li[at]zju.edu.cn\
+Affiliation: College of Software Technology, Zhejiang University, Ningbo 315000, China
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Eng., Software Technology, Zhejiang University, 2026—2028.\
+B.Eng., Software Technology, Zhejiang University of Technology, 2021—2025.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Large Language Models; Quadrotor Unmanned Aerial Vehicles
 

@@ -1,12 +1,14 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+#### Programming Competitions
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 2024 International Collegiate Programming Contest (ICPC) Hangzhou Site, Gold Medal, November 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 2024 International Collegiate Programming Contest (ICPC) Chengdu Site, Gold Medal, October 2024.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- 2024 China Collegiate Programming Contest (CCPC) Zhengzhou Site, Gold Medal, November 2024.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- 2024 China Collegiate Programming Contest (CCPC) Harbin Site, Gold Medal, October 2024.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 2023 International Collegiate Programming Contest (ICPC) Asia Regional Finals Huawei Challenge, First Prize (Rank 3), January 2024.
+
+- 2023 China Collegiate Programming Contest (CCPC) Shenzhen Site, Gold Medal, November 2023.
